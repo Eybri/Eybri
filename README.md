@@ -1,11 +1,22 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&fontSize=28&fontColor=00d4ff&animation=fadeIn&fontAlignY=55&descColor=7b8cde" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=160&section=header&fontColor=00d4ff&animation=fadeIn" />
+
+<!-- MARQUEE NAME -->
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=1&pause=999999&color=00D4FF&center=true&vCenter=true&width=500&lines=AVERY" alt="AVERY" />
+</picture>
+
+<br/>
+
+<marquee behavior="scroll" direction="left" scrollamount="8" style="color:#00d4ff; font-size:2.5rem; font-weight:bold; letter-spacing:0.3em; font-family:monospace;">
+&nbsp;&nbsp;&nbsp;AVERY&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;AVERY&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;AVERY&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;AVERY&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;AVERY&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;AVERY&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;AVERY&nbsp;&nbsp;&nbsp;✦
+</marquee>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Hello%2C+World.+I'm+Avery+%F0%9F%91%BE;Full+Stack+Engineer+%F0%9F%9A%80;Building+things+that+matter+%E2%9C%A8;TypeScript+%7C+React+%7C+Node.js+%7C+Python;Open+Source+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Hello%2C+World.+I'm+Avery+%F0%9F%91%BE;Full+Stack+Engineer+%F0%9F%9A%80;Building+things+that+matter+%E2%9C%A8;TypeScript+%7C+React+%7C+Node.js+%7C+Python" alt="Typing SVG" />
 </a>
 
 <br/>
