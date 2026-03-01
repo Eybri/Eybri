@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=AVERY%20MACASA&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=58&descAlign=50&descColor=7b8cde" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&fontSize=28&fontColor=00d4ff&animation=fadeIn&fontAlignY=55&descColor=7b8cde" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -12,45 +12,9 @@
 
 <!-- PROFILE VIEWS + SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Avery_Macasa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Avery%20Macasa)
-[![GitHub followers](https://img.shields.io/github/followers/Eybri?style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github)](https://github.com/Eybri)
-[![](https://visitcount.itsvg.in/api?id=Eybri&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=Eybri&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/Eybri)
 
 </div>
-
----
-
-<!-- ABOUT ME SECTION -->
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-### `> whoami`
-
-```typescript
-const avery: Developer = {
-  name: "Avery Macasa",
-  alias: "Eybri",
-  role: "Full Stack Developer",
-  location: "🌏 Philippines",
-  
-  languages: ["TypeScript", "Python", "JavaScript", "PHP", "C++"],
-  
-  currentFocus: [
-    "Building scalable web applications",
-    "Exploring AI/ML integrations",
-    "Contributing to open source"
-  ],
-  
-  stack: {
-    frontend: ["React", "Next.js", "Vue.js", "TailwindCSS"],
-    backend:  ["Node.js", "NestJS", "FastAPI", "Django"],
-    database: ["MongoDB", "MySQL", "Supabase", "Redis"],
-    cloud:    ["AWS", "GCP", "Firebase", "Vercel"]
-  },
-  
-  funFact: "I debug with console.log and I'm not ashamed 🙃"
-};
-```
-
-<br clear="right"/>
 
 ---
 
@@ -142,32 +106,6 @@ const avery: Developer = {
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-
-</div>
-
----
-
-<!-- TROPHY SECTION -->
-<div align="center">
-
-### `> ls ~/achievements`
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Eybri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
-</div>
-
----
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-
-### `> watch -n 1 git contributions`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eybri/Eybri/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eybri/Eybri/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eybri/Eybri/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
 
 </div>
 
