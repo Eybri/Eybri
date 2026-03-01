@@ -14,8 +14,6 @@
 
 <br/>
 
-<!-- ROLE TAG -->
-<img src="https://readme-typing-svg.demolab.com?font=Barlow+Condensed&weight=500&size=20&duration=4000&pause=1000&color=E8002D&center=true&vCenter=true&width=700&lines=FULL+STACK+ENGINEER+%2F+AI+%26+ML+INTEGRATION;BUILDING+AT+SPEED.+SHIPPING+WITH+PRECISION.;TypeScript+·+React+·+Node.js+·+Python+·+TensorFlow" alt="roles" />
 
 <br/><br/>
 
@@ -31,8 +29,8 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  CONSTRUCTOR PROFILE  ·  AVERY  ·  FULL STACK + AI/ML          │
-│  STATUS: ACTIVE   ·   STACK: CHECKED   ·   DEPLOY: GREEN       │
+│  CONSTRUCTOR PROFILE  ·  AVERY  ·  FULL STACK + AI/ML           │
+│  STATUS: ACTIVE   ·   STACK: CHECKED   ·   DEPLOY: GREEN        │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -138,7 +136,5 @@
 
 <!-- RED ACCENT LINE FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e8002d,100:ff1801&height=4&section=footer" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=40&section=footer&text=AVERY+·+FULL+STACK+·+AI%2FML&fontSize=12&fontColor=444444&fontAlignY=65" />
 
 </div>
