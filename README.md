@@ -1,154 +1,181 @@
 <div align="center">
 
-```
-██████╗  █████╗  ██████╗███████╗    ██████╗  █████╗ ██╗   ██╗
-██╔══██╗██╔══██╗██╔════╝██╔════╝    ██╔══██╗██╔══██╗╚██╗ ██╔╝
-██████╔╝███████║██║     █████╗      ██║  ██║███████║ ╚████╔╝ 
-██╔══██╗██╔══██║██║     ██╔══╝      ██║  ██║██╔══██║  ╚██╔╝  
-██║  ██║██║  ██║╚██████╗███████╗    ██████╔╝██║  ██║   ██║   
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝   ╚═╝  
-```
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=AVERY%20MACASA&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=58&descAlign=50&descColor=7b8cde" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=3000&pause=800&color=E8002D&center=true&vCenter=true&width=600&lines=🏎️+AVERY+MACASA;Full-Stack+Engineer;Lap+Record%3A+Ship+Fast%2C+Break+Nothing;Currently+in+Qualifying+Mode..." alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Hello%2C+World.+I'm+Avery+%F0%9F%91%BE;Full+Stack+Engineer+%F0%9F%9A%80;Building+things+that+matter+%E2%9C%A8;TypeScript+%7C+React+%7C+Node.js+%7C+Python;Open+Source+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-<!-- F1 RACE STATUS BAR -->
-<table>
-<tr>
-<td align="center">🏁<br/><b>STATUS</b><br/>IN RACE</td>
-<td align="center">⚡<br/><b>TEAM</b><br/>FULL-STACK</td>
-<td align="center">🔧<br/><b>ENGINE</b><br/>TypeScript</td>
-<td align="center">🏆<br/><b>POSITION</b><br/>P1 (ALWAYS)</td>
-<td align="center">🌀<br/><b>TYRE</b><br/>SOFT 🔴</td>
-</tr>
-</table>
+<!-- PROFILE VIEWS + SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avery_Macasa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Avery%20Macasa)
+[![GitHub followers](https://img.shields.io/github/followers/Eybri?style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github)](https://github.com/Eybri)
+[![](https://visitcount.itsvg.in/api?id=Eybri&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
 ---
 
-## 🏎️ CONSTRUCTOR PROFILE
+<!-- ABOUT ME SECTION -->
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```yaml
-Driver      : Avery Macasa
-Number      : #01
-Team        : Full-Stack Racing Division
-Home Circuit: 🇵🇭 Philippines
-Race Mode   : [ ████████████░░ ] Building... 
-DRS         : ACTIVE — Open to opportunities
+### `> whoami`
+
+```typescript
+const avery: Developer = {
+  name: "Avery Macasa",
+  alias: "Eybri",
+  role: "Full Stack Developer",
+  location: "🌏 Philippines",
+  
+  languages: ["TypeScript", "Python", "JavaScript", "PHP", "C++"],
+  
+  currentFocus: [
+    "Building scalable web applications",
+    "Exploring AI/ML integrations",
+    "Contributing to open source"
+  ],
+  
+  stack: {
+    frontend: ["React", "Next.js", "Vue.js", "TailwindCSS"],
+    backend:  ["Node.js", "NestJS", "FastAPI", "Django"],
+    database: ["MongoDB", "MySQL", "Supabase", "Redis"],
+    cloud:    ["AWS", "GCP", "Firebase", "Vercel"]
+  },
+  
+  funFact: "I debug with console.log and I'm not ashamed 🙃"
+};
 ```
 
-> *"To finish first, first you must finish — but shipping fast matters too."*
+<br clear="right"/>
 
 ---
 
-## 🔴 SECTOR TIMES — Tech Stack
+<!-- GITHUB STATS - arranged in a grid -->
+<div align="center">
 
-**SECTOR 1 · FRONTEND** *(Aerodynamics & Bodywork)*
+### `> git log --oneline --stats`
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+<br/>
 
-**SECTOR 2 · BACKEND** *(Power Unit & Gearbox)*
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eybri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b8cde&text_color=c9d1d9&ring_color=00d4ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eybri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8"/>
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+<br/>
+
+<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=Eybri&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6e6e&currStreakLabel=00d4ff&sideLabels=7b8cde"/>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Eybri&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=7b8cde&point=00d4ff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<!-- TECH STACK - organized by category -->
+<div align="center">
+
+### `> cat tech_stack.json`
+
+**⚡ Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**🚀 Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-**SECTOR 3 · DATA & INFRASTRUCTURE** *(Pit Wall & Telemetry)*
+**🗄️ Databases & Storage**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL / Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-**PIT BOX · ML / AI** *(Simulation & Data Analysis)*
+**☁️ Cloud & DevOps**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
----
+**🧠 AI / ML**
 
-## 📊 RACE TELEMETRY — GitHub Stats
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-<div align="center">
+**🎨 Design**
 
-<!-- LAP TIMES / COMMIT HISTORY -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eybri&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&title_color=E8002D&icon_color=E8002D&text_color=ffffff&bg_color=0d0d0d" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eybri&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=E8002D&text_color=ffffff&bg_color=0d0d0d" />
-
-<!-- STREAK / CONSECUTIVE RACE WINS -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=Eybri&theme=dark&hide_border=true&ring=E8002D&fire=FF6B00&currStreakLabel=E8002D&background=0d0d0d" />
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
 
 ---
 
-## 🏁 RACE CALENDAR — Current Season
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  ROUND   CIRCUIT                          STATUS            │
-├─────────────────────────────────────────────────────────────┤
-│  01  ●   Full-Stack Web Apps              ✅ RACE COMPLETE  │
-│  02  ●   REST APIs & Microservices        ✅ RACE COMPLETE  │
-│  03  ●   Machine Learning Integration     🔄 IN PROGRESS    │
-│  04  ○   Cloud Architecture (AWS/GCP)     📋 QUALIFYING     │
-│  05  ○   DevOps & CI/CD Pipelines         🔜 UPCOMING       │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📻 TEAM RADIO — Connect With Me
-
+<!-- TROPHY SECTION -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_—_Pit_Wall_Comms-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Avery%20Macasa)
-[![GitHub](https://img.shields.io/badge/GitHub_—_Onboard_Telemetry-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eybri)
+### `> ls ~/achievements`
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Eybri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 </div>
 
 ---
 
+<!-- SNAKE ANIMATION -->
 <div align="center">
 
-```
- ══════════════════════════════════════════════
-   LIGHTS OUT AND AWAY WE GO  🏁
- ══════════════════════════════════════════════
-```
+### `> watch -n 1 git contributions`
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Eybri&label=Grandstand%20Visitors&icon=5&color=6&pretty=true)](https://visitcount.itsvg.in)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eybri/Eybri/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eybri/Eybri/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eybri/Eybri/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
-*Built with ❤️ and too much caffeine — fueled by the sound of 18,000 RPM*
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&text=Let's%20build%20something%20amazing&fontSize=20&fontColor=00d4ff&animation=twinkling&fontAlignY=65"/>
 
 </div>
