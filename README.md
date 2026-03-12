@@ -25,16 +25,7 @@
 
 <br/>
 
----
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  CONSTRUCTOR PROFILE  ·  AVERY  ·  FULL STACK + AI/ML           │
-│  STATUS: ACTIVE   ·   STACK: CHECKED   ·   DEPLOY: GREEN        │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
 
 <!-- STATS GRID -->
 <div align="center">
