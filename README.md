@@ -54,8 +54,10 @@
 
 <div align="center">
 
+<!-- 3D CONTRIBUTION GRAPH -->
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
 </div>
+<br/>
 
 </div>
