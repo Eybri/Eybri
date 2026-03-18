@@ -54,7 +54,8 @@
 
 <div align="center">
 
-<!-- RED ACCENT LINE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e8002d,100:ff1801&height=4&section=footer" />
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
+</div>
 
 </div>
