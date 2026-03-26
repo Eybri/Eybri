@@ -36,10 +36,6 @@
 
 <br/>
 
-<img width="68%" src="https://nirzak-streak-stats.vercel.app/?user=Eybri&theme=tokyonight&hide_border=true&background=0a0a0a&ring=e8002d&fire=ff6b6b&currStreakLabel=e8002d&sideLabels=888888&dates=cccccc"/>
-
-<br/><br/>
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Eybri&theme=tokyo-night&bg_color=0a0a0a&color=e8002d&line=660011&point=e8002d&area=true&hide_border=true" />
 
 </div>
