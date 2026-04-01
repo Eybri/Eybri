@@ -30,12 +30,6 @@
 <!-- STATS GRID -->
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Eybri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=e8002d&icon_color=ff6b6b&text_color=cccccc&ring_color=e8002d"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eybri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=e8002d&text_color=cccccc&langs_count=8"/>
-
-<br/>
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Eybri&theme=tokyo-night&bg_color=0a0a0a&color=e8002d&line=660011&point=e8002d&area=true&hide_border=true" />
 
 </div>
