@@ -25,6 +25,31 @@
 
 <br/>
 
+<table align="center" border="0" cellpadding="12">
+  <tr>
+    <td align="center" width="140" style="background: #0d1117; border-radius: 16px; padding: 8px;">
+      <a href="https://www.udacity.com/certificate/e/502d6062-3993-11f1-bd34-1bcaad45ed1e">
+        <img src="https://cdn.getblueshift.com/bee/images/ed5b8755-0989-4944-9ca5-287bb68e4a22/AWS%20AI%20%26%20ML%20Scholarship%20Badges%20-%20Project%20-%20Build%20your%20first%20AI%20-%20Dark%403x.jpg" width="90" />
+      </a>
+      <br/>
+      <sub><b>AWS AI<br/>Project Badge</b></sub>
+    </td>
+    <td align="center" width="140" style="background: #0d1117; border-radius: 16px; padding: 8px;">
+      <a href="https://www.udacity.com/certificate/e/502d6062-3993-11f1-bd34-1bcaad45ed1e">
+        <img src="https://cdn.getblueshift.com/bee/images/ed5b8755-0989-4944-9ca5-287bb68e4a22/Challenge%20Completion%20Badge_Light.png" width="90" />
+      </a>
+      <br/>
+      <sub><b>AWS AI<br/>Completion Badge</b></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>AWS AI Practitioner Challenge · Udacity · 2026</b><br/>
+  <a href="https://www.udacity.com/certificate/e/502d6062-3993-11f1-bd34-1bcaad45ed1e">
+    <code>↗ verify certificate ↗</code>
+  </a>
+</p>
 
 
 <!-- STATS GRID -->
