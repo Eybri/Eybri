@@ -20,10 +20,10 @@
 <br/>
 
 <!-- THE DIALOGUE MANUSCRIPT QUOTE -->
-<!-- Typewriter font displaying the local dialogue with dual-mode safe background -->
+<!-- Loops beautifully through the iconic Salazar sisters confrontation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=22&letterSpacing=2&pause=6000&color=242220&background=EFECE6FF&center=true&vCenter=true&width=650&height=60&lines=%22SIR,+BAWAL+MAG+PARK+DITO.%22" alt="Tagalog Dialogue" />
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=18&letterSpacing=1&pause=2500&color=242220&background=EFECE6FF&center=true&vCenter=true&width=650&height=60&lines=%22IKAW+YUNG+MATALINO,+IKAW+YUNG+MAGANDA...%22;%22PERO+BAKIT+PARANG+GALIT+KA?+BAKIT+PARANG+KASALANAN+KO?%22;%22AKO+NGA+YUNG+INGGIT+NA+INGGIT+SA+INYONG+LAHAT!%22" alt="Four Sisters Dialogue" />
   </a>
 </p>
 
