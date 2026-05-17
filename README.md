@@ -1,16 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=8&section=header" />
-
-<!-- RED ACCENT LINE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e8002d,100:ff1801&height=4&section=header" />
+<!-- TTPD PAPYRUS BORDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D2C9BD,100:B8AD9E&height=4&width=100%&section=header" width="100%" alt="Top Border" />
+</p>
 
 <br/>
 
-<!-- NAME - clean, no marquee spam -->
-<picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Barlow+Condensed&weight=800&size=72&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&lines=AVERY" alt="AVERY" />
-</picture>
+<!-- THE MANUSCRIPT HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:242220,100:1C1A18&height=130&width=100%&section=header&text=A+V+E+R+Y&fontSize=64&fontColor=EFECE6&fontAlign=50&fontAlignY=42&stroke=D2C9BD&strokeWidth=1" width="100%" alt="AVERY" />
+</p>
+
+<!-- THE INK BLEED SEPARATOR -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8AD9E,50:242220,100:B8AD9E&height=2&width=100%&section=header" width="100%" alt="Divider" />
+</p>
+
+<br/>
+
+<!-- THE DIALOGUE MANUSCRIPT QUOTE -->
+<!-- Typewriter font displaying the local dialogue with dual-mode safe background -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=22&letterSpacing=2&pause=6000&color=242220&background=EFECE6FF&center=true&vCenter=true&width=650&height=60&lines=%22SIR,+BAWAL+MAG+PARK+DITO.%22" alt="Tagalog Dialogue" />
+  </a>
+</p>
+
+<!-- VINTAGE QUILL PEN FLOURISH -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:242220,100:242220&height=1&width=80&section=header" alt="Quill Stroke" />
+</p>
 
 <br/>
 <sub><sup>—   F U L L - S T A C K   E N G I N E E R   ·   A I / M L    — </sup></sub>
