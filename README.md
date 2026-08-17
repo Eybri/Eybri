@@ -23,7 +23,7 @@
 <!-- Loops beautifully through the iconic Salazar sisters confrontation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=18&letterSpacing=1&pause=2500&color=242220&background=EFECE6FF&center=true&vCenter=true&width=650&height=60&lines=%22IKAW+YUNG+MATALINO,+IKAW+YUNG+MAGANDA...%22;%22PERO+BAKIT+PARANG+GALIT+KA?+BAKIT+PARANG+KASALANAN+KO?%22;%22AKO+NGA+YUNG+INGGIT+NA+INGGIT+SA+INYONG+LAHAT!%22" alt="Four Sisters Dialogue" />
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=18&letterSpacing=1&pause=1200&color=242220&background=EFECE6FF&center=true&vCenter=true&width=650&height=60&lines=JUST+KEEP+SWIMMING.;JUST+KEEP+SWIMMING.;JUST+KEEP+SWIMMING." alt="Just Keep Swimming" />
   </a>
 </p>
 
